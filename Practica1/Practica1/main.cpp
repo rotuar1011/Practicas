@@ -71,7 +71,7 @@ void display(void)
 	 glMaterialfv(GL_FRONT, GL_SPECULAR, mat_specular);
 	 glMaterialfv(GL_FRONT, GL_SHININESS, mat_shininess);
 	 glutSolidTeapot(1.0);
-	 //glutWireCube(2.0f);
+	 glutWireCube(2.0f);
 
 	 //glFlush();
 	 glutSwapBuffers ( );
