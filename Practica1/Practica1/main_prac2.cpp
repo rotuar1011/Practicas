@@ -26,7 +26,9 @@ void display ( void )   // Creamos la funcion donde se dibuja
 	//Poner aqui codigo ha dibujar
 	glPointSize(10.0);
 	glBegin(GL_POINTS);
+	glColor3f(1.0,0.0,0.0);
 	glVertex3f(0.0, 0.0, -1.2);
+	glVertex3f(1.0, 1.0, -1.2);
 	glEnd();
 	glFlush();
 }
