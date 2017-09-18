@@ -10,7 +10,7 @@
 float transZ = -5.0f;
 int screenW = 0.0;
 int screenH = 0.0;
-
+float angZ = 0.0;
 
 void InitGL ( void )     // Inicializamos parametros
 {
@@ -95,9 +95,11 @@ void display ( void )   // Creamos la funcion donde se dibuja
 
 		glTranslatef(0.0f, 0.0f, transZ);
 		//Poner Código Aquí.
-		prisma();
-		
-  											
+		//prisma();
+		glColor3f(1,0,0);
+		glRotatef(angZ,0,1,0);
+		glutWireSphere(2,20,20);
+		angZ+= 0.8;
   glutSwapBuffers ( );
   // Swap The Buffers
 }
