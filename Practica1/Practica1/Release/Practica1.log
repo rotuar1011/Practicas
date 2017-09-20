@@ -1,0 +1,17 @@
+﻿  main_prac6.cpp
+  Generando código
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+glut32.lib(glut32.dll) : error LNK2026: módulo no seguro de una imagen SAFESEH.
+C:\Users\SimulaStudio\Source\Repos\Practicas\Practica1\Release\Practica1.exe : fatal error LNK1281: No se puede generar la imagen SAFESEH.
