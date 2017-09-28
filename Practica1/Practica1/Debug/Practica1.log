@@ -1,3 +1,11 @@
-﻿  main_prac7.cpp
+﻿  texture.cpp
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
+  main_prac8_texto.cpp
+  Generando código...
   Practica1.vcxproj -> C:\Users\SimulaStudio\Source\Repos\Practicas\Practica1\Debug\Practica1.exe
   Practica1.vcxproj -> C:\Users\SimulaStudio\Source\Repos\Practicas\Practica1\Debug\Practica1.pdb (Partial PDB)
