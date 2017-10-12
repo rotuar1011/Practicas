@@ -1,11 +1,11 @@
-﻿  texture.cpp
-c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
-c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: vea la declaración de 'strcpy'
-c:\users\simulastudio\source\repos\practicas\practica1\practica1\texture.cpp(84): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: vea la declaración de 'fopen'
-  main_prac8_texto.cpp
+﻿  main_prac9.cpp
+  figuras.cpp
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\figuras.cpp(20): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\figuras.cpp(84): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\figuras.cpp(135): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\figuras.cpp(324): warning C4101: 'theta': variable local sin referencia
+c:\users\simulastudio\source\repos\practicas\practica1\practica1\figuras.cpp(324): warning C4101: 'phi': variable local sin referencia
+  Camera.cpp
   Generando código...
   Practica1.vcxproj -> C:\Users\SimulaStudio\Source\Repos\Practicas\Practica1\Debug\Practica1.exe
   Practica1.vcxproj -> C:\Users\SimulaStudio\Source\Repos\Practicas\Practica1\Debug\Practica1.pdb (Partial PDB)
